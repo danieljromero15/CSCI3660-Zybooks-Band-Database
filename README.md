@@ -1,3 +1,1 @@
-CSCI3660 - Mobile Application Development
-
-Jason Porter
+Mobile Application Development, Spring 2024
