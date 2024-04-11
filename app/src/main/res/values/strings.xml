@@ -7,6 +7,22 @@
         <item>Nirvana</item>
         <item>U2</item>
         <item>The Police</item>
+        <item>AC/DC</item>
+        <item>Billy Joel</item>
+        <item>Boston</item>
+        <item>Breaking Benjamin</item>
+        <item>Def Leppard</item>
+        <item>Electric Light Orchestra</item>
+        <item>Incubus</item>
+        <item>Journey</item>
+        <item>Led Zeppelin</item>
+        <item>Queen</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Rush</item>
+        <item>Styx</item>
+        <item>Nine Inch Nails</item>
+        <item>The Who</item>
+        <item>Van Halen</item>
     </string-array>
 
     <string-array name="descriptions">
@@ -14,5 +30,21 @@
         <item>An American rock band that formed in Washington in 1987.</item>
         <item>An Irish rock band from Dublin that formed in 1976.</item>
         <item>An English rock band from London that formed in 1977.</item>
+        <item>AC/DC desc</item> <!-- I need to add 10 of these I'm allowed to be lazy -->
+        <item>Billy Joel desc</item>
+        <item>Boston desc</item>
+        <item>Halo 2 band heehee</item>
+        <item>Def Leppard desc</item>
+        <item>ELO desc</item>
+        <item>Halo 2 is really good</item>
+        <item>Journey desc</item>
+        <item>Led Zeppelin desc</item>
+        <item>Queen desc</item>
+        <item>Red Hot Chili Peppers desc</item>
+        <item>Rush desc</item>
+        <item>Styx desc</item>
+        <item>NIN desc</item>
+        <item>The Who desc</item>
+        <item>Van Halen desc</item>
     </string-array>
 </resources>
